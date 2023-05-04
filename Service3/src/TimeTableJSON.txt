@@ -1,0 +1,136 @@
+[ {
+  "name" : "ship13",
+  "type" : "LIQUID",
+  "arrivalTime" : [ 2021, 5, 18, 10, 44, 50, 679905700 ],
+  "weight" : 1007,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship2",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 5, 18, 14, 44, 50, 679905700 ],
+  "weight" : 1238,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship12",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 5, 19, 20, 44, 50, 679905700 ],
+  "weight" : 1744,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship11",
+  "type" : "CONTAINER",
+  "arrivalTime" : [ 2021, 5, 21, 13, 44, 50, 679905700 ],
+  "weight" : 10,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship10",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 5, 22, 6, 44, 50, 679905700 ],
+  "weight" : 1185,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship14",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 5, 24, 4, 44, 50, 679905700 ],
+  "weight" : 1441,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship6",
+  "type" : "LIQUID",
+  "arrivalTime" : [ 2021, 5, 25, 16, 44, 50, 679905700 ],
+  "weight" : 1220,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship7",
+  "type" : "LIQUID",
+  "arrivalTime" : [ 2021, 5, 26, 18, 44, 50, 679905700 ],
+  "weight" : 1128,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship4",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 6, 1, 15, 44, 50, 679905700 ],
+  "weight" : 1104,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship5",
+  "type" : "CONTAINER",
+  "arrivalTime" : [ 2021, 6, 3, 9, 44, 50, 679905700 ],
+  "weight" : 1,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship0",
+  "type" : "CONTAINER",
+  "arrivalTime" : [ 2021, 6, 6, 18, 44, 50, 679905700 ],
+  "weight" : 8,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship1",
+  "type" : "CONTAINER",
+  "arrivalTime" : [ 2021, 6, 7, 5, 44, 50, 679905700 ],
+  "weight" : 11,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship8",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 6, 9, 5, 44, 50, 679905700 ],
+  "weight" : 1138,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship3",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 6, 9, 20, 44, 50, 679905700 ],
+  "weight" : 1388,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+}, {
+  "name" : "ship9",
+  "type" : "BULK",
+  "arrivalTime" : [ 2021, 6, 10, 17, 44, 50, 679905700 ],
+  "weight" : 1949,
+  "remainingWeight" : 0.0,
+  "penalty" : 0.0,
+  "unloadMinutes" : 0,
+  "delayUnload" : 0
+} ]
